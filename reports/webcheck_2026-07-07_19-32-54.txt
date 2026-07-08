@@ -1,0 +1,7 @@
+[+] Website aktivdir
+Status Code: 301
+server: gws
+[✓] Content-Security-Policy mövcuddur
+[✓] X-Frame-Options mövcuddur
+[!] X-Content-Type-Options yoxdur
+[!] Strict-Transport-Security yoxdur

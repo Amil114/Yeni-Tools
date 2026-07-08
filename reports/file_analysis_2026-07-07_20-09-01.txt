@@ -1,0 +1,9 @@
+FILE ANALYZER REPORT
+===================
+
+File: test.txt
+Size: 4.0K
+Type: test.txt: ASCII text
+Permission: 664
+MD5: 06d55dbb794b0bfb11b87c78d8e819b4
+SHA256: 93adcff172af9d2ac6dc164cacea054fc5082656eac3828d52b196d5e9a59248
